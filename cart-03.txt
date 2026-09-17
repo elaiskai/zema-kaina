@@ -1,0 +1,18 @@
+Tema: Grįžkime prie Jūsų krepšelio
+Preheader: Paskutinis priminimas apie krepšelyje likusias prekes.
+
+Grįžkime prie Jūsų krepšelio
+
+Tai paskutinis priminimas apie šį krepšelį. Jei pasirinkimas vis dar aktualus, užsakymą užbaigsite per kelias minutes. Jei ne - nieko tokio, būsime šalia, kai prireiks.
+
+[OMNISEND · JŪSŲ KREPŠELIO PREKĖS]
+
+JŪSŲ PRENUMERATOS DOVANA
+Nepanaudota 5 € nuolaida
+Jei prenumeratos dovanos dar nepanaudojote, atsiskaitydami įveskite kodą ZEMA5.
+Kodas: ZEMA5
+
+GRĮŽTI PRIE PIRKINIŲ: {{abandonedCheckoutUrl}}
+
+Klausimai renkantis ar užsakant?
++370 622 09006 · pardavimai@zemakaina.lt
