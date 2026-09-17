@@ -1,0 +1,18 @@
+Tema: Dar vienas priminimas apie Jūsų pasirinkimą
+Preheader: Užsakymas vis dar išsaugotas.
+
+Dar vienas priminimas apie Jūsų pasirinkimą
+
+Tai paskutinis šios sekos laiškas. Užsakymas dar išsaugotas, tad jei pasirinkimas aktualus, jį užbaigsite per kelias minutes.
+
+[OMNISEND · JŪSŲ UŽSAKYMO PREKĖS]
+
+JŪSŲ PRENUMERATOS DOVANA
+Nepanaudota 5 € nuolaida
+Jei prenumeratos dovanos dar nepanaudojote, atsiskaitydami įveskite kodą ZEMA5.
+Kodas: ZEMA5
+
+UŽBAIGTI PIRKIMĄ: {{abandonedCheckoutUrl}}
+
+Klausimai renkantis ar užsakant?
++370 622 09006 · pardavimai@zemakaina.lt
