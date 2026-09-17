@@ -58,3 +58,17 @@ Pastatyta 2026-09-16 / 2026-09-17 pagal `AUTOMATION-FLOW-PLANAS.md`. Trys srauta
 Šie HTML yra peržiūros versijos: prekių vietoje jose yra brūkšniuotas rėmelis su žyma `OMNISEND · ...`. Gyvame laiške ten įdedamas natyvus Omnisend dinaminis prekių blokas, kuris parodo tikrą gavėjo krepšelį, užsakymą ar peržiūrėtą prekę. Į Omnisend keliami `omnisend/` aplanko `-top` ir `-bottom` fragmentai, tarp jų - natyvus blokas.
 
 Šiuose laiškuose logotipo ir footerio nėra, nes Omnisend juos prideda pats. Naujų nuolaidų nėra; C3 ir CO3 turi sąlyginį ZEMA5 priminimą, rodomą tik tiems, kam kodas dar galioja. Automatizacijos Omnisende dar nesukurtos ir neaktyvuotos.
+
+
+## Win-back laiškai ×2
+
+Atnaujinta 2026-09-17. Abiejuose laiškuose po 6 kategorijas ir 12 produktų. Produktų fonai skaidrūs, pašalinti mažmenininko vandens ženklai; džiovyklė sumažinta, vienkartinių stalo užvalkalų nuotraukoje matomas visas stalas.
+
+| Laiškas | HTML su HTTPS assetais | Vietinis HTML | Desktop JPG |
+|---|---|---|---|
+| 1. Sugrįžimas | [winback-01.html](winback-01.html) | [winback-01-local.html](winback-01-local.html) | [JPG](winback-01-desktop.jpg) |
+| 2. Priedai ir priežiūra | [winback-02.html](winback-02.html) | [winback-02-local.html](winback-02-local.html) | [JPG](winback-02-desktop.jpg) |
+
+Pagrindinės HTML versijos naudoja viešus šios repozitorijos HTTPS vaizdų ir šriftų adresus. Atsisiuntus visą repozitoriją, `-local.html` versijas galima atidaryti su greta esančiais `wb-asset-*` failais. Įtraukti TXT ir desktop/mobile JPG.
+
+Win-back laiškuose naujas nuolaidos kodas netaikomas. Prieš siuntimą `[[unsubscribe_link]]` pakeiskite savo ESP atsisakymo žyma. Įkėlimas neaktyvuoja automatizacijos.
