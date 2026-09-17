@@ -39,3 +39,22 @@ Kartu įkelti visi naudojami vaizdai ir šriftai, TXT tekstai bei desktop/mobile
 ### Prieš siuntimą
 
 ESP sistemoje pakeiskite `[[unsubscribe_link]]` savo atsisakymo žyma, patikrinkite ZEMA5 veikimą ir atlikite bandomąjį siuntimą. Automatizacija šiuo įkėlimu neaktyvuojama. Patikimam ilgalaikiam siuntimui vaizdus galima perkelti į ESP media biblioteką arba savo CDN; dabar nuorodos naudoja GitHub raw.
+
+## Atkūrimo automatizacijos ×8
+
+Pastatyta 2026-09-16 / 2026-09-17 pagal `AUTOMATION-FLOW-PLANAS.md`. Trys srautai iš plano: apleistas krepšelis ×3, apleistas atsiskaitymas ×3, produkto peržiūra ×2. Dizainas tęsia welcome laiškus. Pilnas diegimo aprašas - [AUTOMATIZACIJU-HANDOFF.md](AUTOMATIZACIJU-HANDOFF.md).
+
+| Laiškas | Delay | Tema | HTML | Tekstas |
+|---|---|---|---|---|
+| C1 krepšelis | +2 val. | Jūsų pasirinkimai liko krepšelyje | [cart-01.html](cart-01.html) | [txt](cart-01.txt) |
+| C2 krepšelis | +26 val. | Gera kaina svarbu. Tinkamas pasirinkimas - taip pat. | [cart-02.html](cart-02.html) | [txt](cart-02.txt) |
+| C3 krepšelis | +74 val. | Grįžkime prie Jūsų krepšelio | [cart-03.html](cart-03.html) | [txt](cart-03.txt) |
+| CO1 atsiskaitymas | +1 val. | Iki pirkinio liko vienas žingsnis | [checkout-01.html](checkout-01.html) | [txt](checkout-01.txt) |
+| CO2 atsiskaitymas | +25 val. | Užstrigo pirkimas? Padėsime. | [checkout-02.html](checkout-02.html) | [txt](checkout-02.txt) |
+| CO3 atsiskaitymas | +73 val. | Dar vienas priminimas apie Jūsų pasirinkimą | [checkout-03.html](checkout-03.html) | [txt](checkout-03.txt) |
+| P1 peržiūra | +2 val. | Verta pasižiūrėti dar kartą | [product-01.html](product-01.html) | [txt](product-01.txt) |
+| P2 peržiūra | +26 val. | Padėsime išsirinkti tai, kas pravers | [product-02.html](product-02.html) | [txt](product-02.txt) |
+
+Šie HTML yra peržiūros versijos: prekių vietoje jose yra brūkšniuotas rėmelis su žyma `OMNISEND · ...`. Gyvame laiške ten įdedamas natyvus Omnisend dinaminis prekių blokas, kuris parodo tikrą gavėjo krepšelį, užsakymą ar peržiūrėtą prekę. Į Omnisend keliami `omnisend/` aplanko `-top` ir `-bottom` fragmentai, tarp jų - natyvus blokas.
+
+Šiuose laiškuose logotipo ir footerio nėra, nes Omnisend juos prideda pats. Naujų nuolaidų nėra; C3 ir CO3 turi sąlyginį ZEMA5 priminimą, rodomą tik tiems, kam kodas dar galioja. Automatizacijos Omnisende dar nesukurtos ir neaktyvuotos.
