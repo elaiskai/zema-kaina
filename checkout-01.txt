@@ -1,0 +1,15 @@
+Tema: Iki pirkinio liko vienas žingsnis
+Preheader: Užsakymą išsaugojome ties paskutiniu žingsniu.
+
+Iki pirkinio liko vienas žingsnis
+
+Jūsų užsakymą išsaugojome ties paskutiniu žingsniu. Grįžkite ir užbaikite jį tada, kai bus patogu.
+
+Krepšelis > Duomenys > Apmokėjimas
+
+[OMNISEND · JŪSŲ UŽSAKYMO PREKĖS]
+
+UŽBAIGTI UŽSAKYMĄ: {{abandonedCheckoutUrl}}
+
+Klausimai renkantis ar užsakant?
++370 622 09006 · pardavimai@zemakaina.lt
