@@ -1,0 +1,15 @@
+Tema: Jūsų pasirinkimai liko krepšelyje
+Preheader: Krepšelį išsaugojome. Grįžti prie jo galite tada, kai bus patogu.
+
+Jūsų pasirinkimai liko krepšelyje
+
+Krepšelį išsaugojome, todėl grįžti prie jo galite tada, kai bus patogu. Jei liko klausimų dėl prekės, pristatymo ar atsiskaitymo, mielai padėsime.
+
+[OMNISEND · JŪSŲ KREPŠELIO PREKĖS]
+
+GRĮŽTI PRIE PIRKINIŲ: {{abandonedCheckoutUrl}}
+
+Prekių prieinamumas ir kainos gali keistis, todėl verta pasitikrinti prieš užbaigiant užsakymą.
+
+Klausimai renkantis ar užsakant?
++370 622 09006 · pardavimai@zemakaina.lt
