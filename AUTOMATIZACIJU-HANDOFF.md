@@ -2,9 +2,9 @@
 
 **Pastatyta:** 2026-09-17 · **Klientas:** zemakaina.lt (UAB Žema kaina; užsakovas Margarium MB) · **ESP:** Omnisend
 **Šaltinis:** `AUTOMATION-FLOW-PLANAS.md` (2026-09-11) · **Dizainas:** tęsia `welcome-01..03`
-**Statusas (2026-09-21):** maketai ir copy paruošti; laiškai **sukelti į Omnisend kaip `email-templates`**,
-bet automatizacijos dar nesukurtos - `POST /automations` blokuoja 409 `email-unverified-domain`.
-Nieko neaktyvuota. Pilnas Omnisend diegimo statusas, template ID ir srautų konfigūracija: **`OMNISEND-DIEGIMAS.md`**.
+**Statusas (2026-09-22):** maketai, copy, template'ai ir **automatizacijos Omnisende sukurtos** -
+visos 5 (13 laiškų) tebėra **išjungtos**, laukia test send ir Luko aktyvavimo.
+Pilnas diegimo statusas, template / automation ID ir srautų konfigūracija: **`OMNISEND-DIEGIMAS.md`**.
 
 8 laiškai iš plane numatytų 15. Likę 7 (welcome ×3 jau repo, win-back ×2, post-purchase ×2) nėra šio paketo dalis.
 
