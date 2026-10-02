@@ -9,7 +9,7 @@ Tai paskutinis priminimas apie šį krepšelį. Jei pasirinkimas vis dar aktualu
 
 JŪSŲ PRENUMERATOS DOVANA
 Nepanaudota 5 € nuolaida
-Jei prenumeratos dovanos dar nepanaudojote, atsiskaitydami įveskite kodą ZEMA5.
+Jei prenumeratos dovanos dar nepanaudojote, atsiskaitydami įveskite kodą ZEMA5. Kodas galioja perkant už 50 € ar daugiau.
 Kodas: ZEMA5
 
 GRĮŽTI PRIE PIRKINIŲ: {{abandonedCheckoutUrl}}
