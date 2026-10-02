@@ -7,8 +7,8 @@ Jei kilo klausimų dėl pristatymo ar atsiskaitymo, atsakymus rasite žemiau. Je
 
 [OMNISEND · JŪSŲ UŽSAKYMO PREKĖS]
 
-Pristatymas: Prekes pristatome per 1-3 darbo dienas nuo užsakymo patvirtinimo, kurjeriu arba į paštomatą.
-Atsiskaitymas: Galima rinktis bankinį pavedimą, mokėjimą internetu, atsiskaitymą kurjeriui arba lizingą.
+Pristatymas: Dažniausiai pristatome per 1-2 darbo dienas kurjeriu arba į paštomatą.
+Atsiskaitymas: Mokėkite pavedimu, internetu, lizingu arba grynais ar banko kortele kurjeriui pristatymo metu.
 Klausimai: Paskambinkite +370 622 09006 arba parašykite pardavimai@zemakaina.lt.
 
 TĘSTI UŽSAKYMĄ: {{abandonedCheckoutUrl}}
