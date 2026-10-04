@@ -1,3 +1,15 @@
+> Atnaujinta 2026 m. spalio 4 d. Welcome ×3, Win-back ×2 ir Product abandonment ×2. Cart ir Checkout HTML, TXT bei importo fragmentai palikti originalūs.
+
+## Aktualūs failai Omnisend importui
+
+Welcome ir Win-back naudokite pagrindinius `.html` failus su HTTPS vaizdų adresais. `-local.html` skirti tik peržiūrai. Product abandonment naudokite `omnisend/product-01-top.html` ir `product-01-bottom.html`, analogiškai antram laiškui, tarp jų įdėkite natyvų dinaminį produkto bloką.
+
+Welcome 1 hero: HECHT lapų pūstuvas. Welcome 2: Enders Deluxe ir Supreme. Welcome 3: Restpro masažo stalas. Win-back 1: trijų asortimento krypčių hero. Atnaujintos peržiūros pateiktos greta HTML.
+
+5 € prenumeratos nuolaida galioja perkant už 50 € ar daugiau. Keistų laiškų naršyklės peržiūros patikrintos 600, 320, 390 ir 430 px, taip pat pašalinus head stilius bei šriftų nuorodas. HTML kontrolinės sumos ir patikrinimai: [QA](QA-2026-10-04.json). Tai nėra patvirtintas Gmail arba Omnisend siuntimo testas. Prieš siuntimą platformoje patikrinkite atsisakymo žymą ir atlikite bandomąjį siuntimą.
+
+Toliau pateikta ankstesnė projekto dokumentacija.
+
 # Žema kaina
 
 [Atverti visą automatizacijų planą](AUTOMATION-FLOW-PLANAS.md)

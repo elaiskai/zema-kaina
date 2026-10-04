@@ -1,0 +1,4673 @@
+{
+  "visual": [
+    {
+      "file": "product-01.html",
+      "sha256": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "limits": "Browser only. Dynamic Omnisend product blocks, platform footer, Gmail delivery and coupon behavior unverified."
+    },
+    {
+      "file": "product-02.html",
+      "sha256": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "limits": "Browser only. Dynamic Omnisend product blocks, platform footer, Gmail delivery and coupon behavior unverified."
+    },
+    {
+      "file": "winback-02.html",
+      "sha256": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "limits": "Browser only. Dynamic Omnisend product blocks, platform footer, Gmail delivery and coupon behavior unverified."
+    },
+    {
+      "file": "welcome-01.html",
+      "sha256": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "checks": "Fresh screenshots inspected: hero typography and continuous white edge, centered trust block, readable names and copy, natural image proportions, category CTA association, minimum 48 px buttons, no clipping or overflow. No dash punctuation in visible copy or alt.",
+      "limits": "Browser previews only. Gmail and Omnisend delivery unverified."
+    },
+    {
+      "file": "welcome-02.html",
+      "sha256": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "checks": "Fresh visual screenshots: legible hero text, natural product proportions, continuous white bottom edge, intact category headings, image/text/CTA association after stacking, minimum 48 px CTA, no clipping or overflow. Dash-free visible copy and alt.",
+      "limits": "Browser previews only, Gmail and Omnisend delivery unverified."
+    },
+    {
+      "file": "welcome-03.html",
+      "sha256": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "checks": "Fresh screenshots inspected, aligned category dimensions and CTA positions, readable headings and copy, intact names, natural photo proportions, stacked image and CTA association, CTA minimum 48 px. No overflow, clipping, missing images or dash punctuation in visible copy/alt. Delivery and warranty cards now equal height with aligned links. Fresh eight viewport variants rendered.",
+      "limits": "Browser previews only, Gmail and Omnisend delivery unverified."
+    },
+    {
+      "file": "winback-01.html",
+      "sha256": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "visual_review": "passed",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "reviewed": "2026-10-04",
+      "checks": "Fresh previews: hero text readable, product proportions natural, continuous white edge, image/CTA association, no clipping/overflow/missing images, CTA minimum 44 px.",
+      "limits": "Browser previews only, Gmail and Omnisend delivery unverified."
+    }
+  ],
+  "automated": [
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 548
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-normal-600.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 268
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-normal-320.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 338
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-normal-390.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 378
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-normal-430.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 552
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-stripped-600.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-stripped-320.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 342
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-stripped-390.png"
+    },
+    {
+      "file": "product-01.html",
+      "hash": "e309933dfc76aa6f8af0bfc1fecbd4467ef0ebe9da7f2607f1f21a4376810add",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 382
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-01-stripped-430.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 548
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-normal-600.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 268
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-normal-320.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 338
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-normal-390.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 378
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-normal-430.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 552
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-stripped-600.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-stripped-320.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 342
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-stripped-390.png"
+    },
+    {
+      "file": "product-02.html",
+      "hash": "2387883b18c52327a88f1347ffbea21928436205836911ee6869fc39933ab67a",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "GRĮŽTI Į PARDUOTUVĘ   →",
+          "height": 48,
+          "width": 382
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "product-02-stripped-430.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-600.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 138
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-320.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-390.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-430.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 276
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-600.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 136
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-320.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-390.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "e20649022ba6e9b785b5058824f23c204a02c1ab1377d9e5a9ad3c535635e1ba",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 191
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-430.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 502
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 270
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-600.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 246
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 268
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 134
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-320.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 338
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 169
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-390.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 378
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 189
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-430.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 276
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-600.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 136
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-320.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-390.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "81d4e3d9324ffbb6d7115d71ee0db78a2316156632e5d919e26043361db4454e",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 191
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-430.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 488
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 548
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 274
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 134
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 338
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 169
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 330
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 378
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 189
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-430.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 492
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 276
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 68,
+          "width": 212
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 136
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 282
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "e51826ac2768f4643bad037b8c0418eddc76b010fc6926cf9b1bbea09665d740",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "„ENDERS“ BIOTUALETAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "MASAŽO STALAI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS NAMAMS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IRKLENTĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PRIPUČIAMOS VALTYS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "RINKITĖS PAGAL POREIKIUS   →",
+          "height": 48,
+          "width": 322
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 191
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 492
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 274
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 132
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 334
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 212
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 374
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 492
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 276
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 68,
+          "width": 212
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 136
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 282
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "f9f611228eec0b728a6f770cbec9631f073583a7725a37841a043deecbf26b92",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 322
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 220
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 191
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-430.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-600.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 138
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-320.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-390.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-430.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 276
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-600.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 136
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 136
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-320.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-390.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "a1e9128800fd2ca9c2f3fc0d11a3d87755b59dcd3c1a7659bfae5fdabe7f13d7",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PERŽIŪRĖTI ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PERŽIŪRĖTI VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "SODO TECHNIKA",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "BIOTUALETAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "MASAŽO STALAI",
+          "height": 48,
+          "width": 191
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 191
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-430.png"
+    }
+  ]
+}
