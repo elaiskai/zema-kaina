@@ -1,1230 +1,6 @@
 {
   "automated": [
     {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": false,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 552
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 488
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 548
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 274
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-normal-600.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": false,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 228
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 276
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 134
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 134
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 134
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 134
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-normal-320.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": false,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 290
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 338
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 169
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 169
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 169
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 169
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-normal-390.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": false,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 382
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 330
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 378
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 189
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 189
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 189
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 189
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-normal-430.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": true,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 552
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 476
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 520
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 256
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-stripped-600.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": true,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 68,
-          "width": 205
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 116
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-stripped-320.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": true,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 266
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 310
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 151
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-stripped-390.png"
-    },
-    {
-      "file": "welcome-02.html",
-      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
-      "stripped": true,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 382
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS KEMPINGUI   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "PREKĖS LAIKUI SAU   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "BUITIES IR NAMŲ PREKĖS   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "ATRASKITE IRKLENTES   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE VALTĮ   →",
-          "height": 48,
-          "width": 252
-        },
-        {
-          "text": "IŠSIRINKITE, KAS PRAVERS   →",
-          "height": 48,
-          "width": 306
-        },
-        {
-          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
-          "height": 48,
-          "width": 350
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 171
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-02-stripped-430.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": false,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 476
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 272
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-600.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": false,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 274
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 132
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-320.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": false,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 334
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 334
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 334
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 167
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-390.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": false,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 374
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 374
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 374
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 187
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-430.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": true,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 476
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 256
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-600.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": true,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 68,
-          "width": 205
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 206
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 206
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 202
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 202
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 116
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-320.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": true,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 266
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 151
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-390.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
-      "stripped": true,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 306
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 171
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-430.png"
-    },
-    {
       "file": "winback-01.html",
       "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
       "stripped": false,
@@ -4039,6 +2815,1230 @@
       ],
       "shortButtons": [],
       "screenshot": "welcome-01-stripped-430.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 488
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 548
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 274
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 134
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 338
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 169
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 330
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 378
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 189
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-430.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 68,
+          "width": 205
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 274
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 132
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 334
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 374
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 68,
+          "width": 205
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-430.png"
     }
   ],
   "visual": [
@@ -4062,7 +4062,7 @@
     },
     {
       "file": "welcome-02.html",
-      "sha256": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "sha256": "888e30711bdd5a8b4cd2fcaf2600b1345f79333d0ecce36d26f914a347fbea03",
       "visual_review": "passed",
       "reviewed": "2026-10-05",
       "viewports": [
@@ -4080,7 +4080,7 @@
     },
     {
       "file": "welcome-03.html",
-      "sha256": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "sha256": "e98b4d4859b78e9756e196c38fa9724336415bd269f4282e8b620922aba51534",
       "visual_review": "passed",
       "reviewed": "2026-10-05",
       "viewports": [
