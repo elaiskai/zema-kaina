@@ -1,3 +1,5 @@
+> Pasirinkti Welcome: W1 ir W2 lifestyle, W3 pirminis hero. W1 kategorijos po tris eilėje, išlaikyta nauja tvarka. [Aktuali pasirinktų Welcome QA](QA-Welcome-selected.json).
+
 > Atnaujinta 2026 m. spalio 5 d. Welcome ×3 ir Winback ×2 pagal kliento pastabas. Cart ir Checkout nepakeisti.
 
 Grąžinti pirminių versijų tekstai, headline’ai ir laiškų koncepcijos. Welcome 1, Welcome 2 ir Winback 1 hero rodo platesnį asortimentą iš tikrų prekių nuotraukų. Welcome 3 grąžintas pirminis hero. Kategorijos ir produktai išdėstyti pagal prioritetus. Pašalinti sezoniniai tekstai bei statinės produktų kainos. Pataisytos pristatymo, atsiskaitymo ir 5 € nuolaidos sąlygos.
