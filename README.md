@@ -1,12 +1,10 @@
-> Atnaujinta 2026 m. spalio 4 d. Welcome ×3, Win-back ×2 ir Product abandonment ×2. Cart ir Checkout HTML, TXT bei importo fragmentai palikti originalūs.
+> Atnaujinta 2026 m. spalio 5 d. Welcome ×3 ir Winback ×2 pagal kliento pastabas. Cart ir Checkout nepakeisti.
 
-## Aktualūs failai Omnisend importui
+Grąžinti pirminių versijų tekstai, headline’ai ir laiškų koncepcijos. Welcome 1, Welcome 2 ir Winback 1 hero rodo platesnį asortimentą iš tikrų prekių nuotraukų. Welcome 3 grąžintas pirminis hero. Kategorijos ir produktai išdėstyti pagal prioritetus. Pašalinti sezoniniai tekstai bei statinės produktų kainos. Pataisytos pristatymo, atsiskaitymo ir 5 € nuolaidos sąlygos.
 
-Welcome ir Win-back naudokite pagrindinius `.html` failus su HTTPS vaizdų adresais. `-local.html` skirti tik peržiūrai. Product abandonment naudokite `omnisend/product-01-top.html` ir `product-01-bottom.html`, analogiškai antram laiškui, tarp jų įdėkite natyvų dinaminį produkto bloką.
+Omnisend importui naudokite pagrindinius `.html`. `-local.html` skirti vietinei peržiūrai. Naujos desktop ir mobile JPG peržiūros sugeneruotos iš šių HTML.
 
-Welcome 1 hero: HECHT lapų pūstuvas. Welcome 2: Enders Deluxe ir Supreme. Welcome 3: Restpro masažo stalas. Win-back 1: trijų asortimento krypčių hero. Atnaujintos peržiūros pateiktos greta HTML.
-
-5 € prenumeratos nuolaida galioja perkant už 50 € ar daugiau. Keistų laiškų naršyklės peržiūros patikrintos 600, 320, 390 ir 430 px, taip pat pašalinus head stilius bei šriftų nuorodas. HTML kontrolinės sumos ir patikrinimai: [QA](QA-2026-10-04.json). Tai nėra patvirtintas Gmail arba Omnisend siuntimo testas. Prieš siuntimą platformoje patikrinkite atsisakymo žymą ir atlikite bandomąjį siuntimą.
+[Galutinė naršyklės QA](QA-2026-10-05.json): 600, 320, 390 ir 430 px, su head stiliais ir juos pašalinus. Tai nėra Omnisend arba Gmail siuntimo testas. Prieš aktyvuojant atlikite bandomąjį siuntimą, patikrinkite atsisakymo žymą ir ZEMA5 veikimą perkant už 50 € ar daugiau.
 
 Toliau pateikta ankstesnė projekto dokumentacija.
 

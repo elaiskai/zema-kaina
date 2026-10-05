@@ -1,0 +1,4136 @@
+{
+  "automated": [
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 488
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 548
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 274
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 134
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 338
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 169
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 330
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 378
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 189
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-normal-430.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 552
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-600.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 68,
+          "width": 205
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-320.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-390.png"
+    },
+    {
+      "file": "welcome-02.html",
+      "hash": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 382
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS KEMPINGUI   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "PREKĖS LAIKUI SAU   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "BUITIES IR NAMŲ PREKĖS   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "ATRASKITE IRKLENTES   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE VALTĮ   →",
+          "height": 48,
+          "width": 252
+        },
+        {
+          "text": "IŠSIRINKITE, KAS PRAVERS   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "DAUGIAU APIE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-02-stripped-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 274
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 132
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 334
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 374
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 68,
+          "width": 205
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-430.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-600.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 138
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-320.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-390.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-normal-430.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 550
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-600.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 68,
+          "width": 240
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-320.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 340
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-390.png"
+    },
+    {
+      "file": "winback-01.html",
+      "hash": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE RUDENS PASIRINKIMUS   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 380
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-01-stripped-430.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 542
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-600.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 290
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 276
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 138
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 138
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-320.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-390.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 388
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-normal-430.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 518
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 520
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-600.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 68,
+          "width": 240
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 238
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-320.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 310
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-390.png"
+    },
+    {
+      "file": "winback-02.html",
+      "hash": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE VISĄ ASORTIMENTĄ   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PERŽIŪRĖTI   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "VISA KATEGORIJA   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 350
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "winback-02-stripped-430.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 502
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 270
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 270
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-600.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 246
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 268
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 134
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 134
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-320.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 308
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 338
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 169
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 169
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-390.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 348
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 378
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 189
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 189
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-normal-430.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-600.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-320.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-390.png"
+    },
+    {
+      "file": "welcome-01.html",
+      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "ATRASKITE ŽEMĄ KAINĄ   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "RINKTIS →",
+          "height": 48,
+          "width": 228
+        },
+        {
+          "text": "DAUGIAU APIE MUS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-01-stripped-430.png"
+    }
+  ],
+  "visual": [
+    {
+      "file": "welcome-01.html",
+      "sha256": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "visual_review": "passed",
+      "reviewed": "2026-10-05",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "checks": "Fresh full-page overviews and readable detail sheets inspected. Readable copy and product names, aligned cards, natural proportions, associated images and CTAs, CTA height at least 48 px.",
+      "limits": "Browser only. Omnisend and Gmail delivery unverified."
+    },
+    {
+      "file": "welcome-02.html",
+      "sha256": "ee16eb613dc0e37ad096366705db1c9f4dc809e45cab7bc5e181d42bb9b5cdfb",
+      "visual_review": "passed",
+      "reviewed": "2026-10-05",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "checks": "Fresh full-page overviews and readable detail sheets inspected. Readable copy and product names, aligned cards, natural proportions, associated images and CTAs, CTA height at least 48 px.",
+      "limits": "Browser only. Omnisend and Gmail delivery unverified."
+    },
+    {
+      "file": "welcome-03.html",
+      "sha256": "93c0dc77c1c004923538cacac1f7b52191510ffb54462302731c23ae7ef930d9",
+      "visual_review": "passed",
+      "reviewed": "2026-10-05",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "checks": "Fresh full-page overviews and readable detail sheets inspected. Readable copy and product names, aligned cards, natural proportions, associated images and CTAs, CTA height at least 48 px.",
+      "limits": "Browser only. Omnisend and Gmail delivery unverified."
+    },
+    {
+      "file": "winback-01.html",
+      "sha256": "8ac7739f3c7fc7d7e5852ec9365d9d6aa5105b9f9098be8596676cfe6dc3543c",
+      "visual_review": "passed",
+      "reviewed": "2026-10-05",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "checks": "Fresh full-page overviews and readable detail sheets inspected. Readable copy and product names, aligned cards, natural proportions, associated images and CTAs, CTA height at least 48 px.",
+      "limits": "Browser only. Omnisend and Gmail delivery unverified."
+    },
+    {
+      "file": "winback-02.html",
+      "sha256": "5342cd032bd0e57bf6843f0a3a2fe8099a7226771a140871ae08515359064fef",
+      "visual_review": "passed",
+      "reviewed": "2026-10-05",
+      "viewports": [
+        600,
+        320,
+        390,
+        430
+      ],
+      "modes": [
+        "normal",
+        "head styles and font links removed"
+      ],
+      "checks": "Fresh full-page overviews and readable detail sheets inspected. Readable copy and product names, aligned cards, natural proportions, associated images and CTAs, CTA height at least 48 px.",
+      "limits": "Browser only. Omnisend and Gmail delivery unverified."
+    }
+  ]
+}
