@@ -3450,7 +3450,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": false,
       "width": 600,
       "pageWidth": 600,
@@ -3524,7 +3524,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": false,
       "width": 320,
       "pageWidth": 320,
@@ -3598,7 +3598,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": false,
       "width": 390,
       "pageWidth": 390,
@@ -3672,7 +3672,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": false,
       "width": 430,
       "pageWidth": 430,
@@ -3746,7 +3746,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": true,
       "width": 600,
       "pageWidth": 600,
@@ -3820,7 +3820,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": true,
       "width": 320,
       "pageWidth": 320,
@@ -3894,7 +3894,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": true,
       "width": 390,
       "pageWidth": 390,
@@ -3968,7 +3968,7 @@
     },
     {
       "file": "welcome-01.html",
-      "hash": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "hash": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "stripped": true,
       "width": 430,
       "pageWidth": 430,
@@ -4044,7 +4044,7 @@
   "visual": [
     {
       "file": "welcome-01.html",
-      "sha256": "c48db5daa80f4074acc6403eae54b0326366154ffd0e760f9d0ab98e5e1d3fd0",
+      "sha256": "48a103dd585b04d0f7122c436dd67f9ca1bbb7d9936781a307672678a252e6bb",
       "visual_review": "passed",
       "reviewed": "2026-10-05",
       "viewports": [
