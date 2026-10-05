@@ -1,12 +1,10 @@
-> Pasirinkti Welcome: W1 ir W2 lifestyle, W3 pirminis hero. W1 kategorijos po tris eilėje, išlaikyta nauja tvarka. [Aktuali pasirinktų Welcome QA](QA-Welcome-selected.json).
+# Aktualūs patvirtinti Welcome
 
-> Atnaujinta 2026 m. spalio 5 d. Welcome ×3 ir Winback ×2 pagal kliento pastabas. Cart ir Checkout nepakeisti.
+W1 ir W2 pasirinkti lifestyle hero. W3 grąžintas pirminis hero. W1 kategorijos po tris eilėje, išlaikyta nauja prioritetų tvarka.
 
-Grąžinti pirminių versijų tekstai, headline’ai ir laiškų koncepcijos. Welcome 1, Welcome 2 ir Winback 1 hero rodo platesnį asortimentą iš tikrų prekių nuotraukų. Welcome 3 grąžintas pirminis hero. Kategorijos ir produktai išdėstyti pagal prioritetus. Pašalinti sezoniniai tekstai bei statinės produktų kainos. Pataisytos pristatymo, atsiskaitymo ir 5 € nuolaidos sąlygos.
+Omnisend importui: welcome-01.html, welcome-02.html, welcome-03.html. [Importo pastabos](WELCOME-OMNISEND.md). [Aktuali QA](QA-Welcome-selected.json). Desktop ir mobile JPG sugeneruoti iš aktualių HTML. Naršyklės patikra nėra Omnisend arba Gmail siuntimo testas.
 
-Omnisend importui naudokite pagrindinius `.html`. `-local.html` skirti vietinei peržiūrai. Naujos desktop ir mobile JPG peržiūros sugeneruotos iš šių HTML.
-
-[Galutinė naršyklės QA](QA-2026-10-05.json): 600, 320, 390 ir 430 px, su head stiliais ir juos pašalinus. Tai nėra Omnisend arba Gmail siuntimo testas. Prieš aktyvuojant atlikite bandomąjį siuntimą, patikrinkite atsisakymo žymą ir ZEMA5 veikimą perkant už 50 € ar daugiau.
+Ateities vizualinė kryptis: spalvos ir aplinka seka turinį bei produktą; vientisumą išlaiko logo, tipografika, tonas, CTA ir komponavimo principai. Dabartiniai laiškai pagal šią kryptį neperdaromi. Cart ir Checkout nepakeisti.
 
 Toliau pateikta ankstesnė projekto dokumentacija.
 

@@ -593,598 +593,6 @@
       "screenshot": "welcome-02-stripped-430.png"
     },
     {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": false,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 476
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 544
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 272
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 272
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-600.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": false,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 240
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 274
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 274
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 132
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 132
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-320.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": false,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 334
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 334
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 334
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 167
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 167
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-390.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": false,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 62,
-          "width": 374
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 374
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 374
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 187
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 187
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-normal-430.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": true,
-      "width": 600,
-      "pageWidth": 600,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 476
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 512
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 256
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 256
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-600.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": true,
-      "width": 320,
-      "pageWidth": 320,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 68,
-          "width": 205
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 206
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 206
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 202
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 202
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 232
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 116
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 116
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-320.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": true,
-      "width": 390,
-      "pageWidth": 390,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 266
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 302
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 151
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 151
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-390.png"
-    },
-    {
-      "file": "welcome-03.html",
-      "hash": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
-      "stripped": true,
-      "width": 430,
-      "pageWidth": 430,
-      "badImages": [],
-      "overflow": [],
-      "clipped": [],
-      "buttons": [
-        {
-          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
-          "height": 48,
-          "width": 306
-        },
-        {
-          "text": "ATRASKITE SODO PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "ATRASKITE NAMŲ PREKES   →",
-          "height": 48,
-          "width": 218
-        },
-        {
-          "text": "PRISTATYMO SĄLYGOS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "GARANTIJA IR GRĄŽINIMAS →",
-          "height": 48,
-          "width": 214
-        },
-        {
-          "text": "+370 622 09006",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "pardavimai@zemakaina.lt",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "PARAŠYTI MUMS   →",
-          "height": 48,
-          "width": 342
-        },
-        {
-          "text": "NAMAMS",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "SODUI",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "LAIKUI SAU",
-          "height": 48,
-          "width": 171
-        },
-        {
-          "text": "VISOS PREKĖS",
-          "height": 48,
-          "width": 171
-        }
-      ],
-      "shortButtons": [],
-      "screenshot": "welcome-03-stripped-430.png"
-    },
-    {
       "file": "welcome-01.html",
       "hash": "ee2e578aa9905b0144285dd81cdd347a3246964765bfa6e64f945fcbdedebb4c",
       "stripped": false,
@@ -1775,6 +1183,598 @@
       ],
       "shortButtons": [],
       "screenshot": "welcome-01-stripped-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": false,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 544
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 272
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 272
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": false,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 240
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 274
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 274
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 132
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 132
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": false,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 334
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 334
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 167
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 167
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": false,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 62,
+          "width": 374
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 374
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 187
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 187
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-normal-430.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": true,
+      "width": 600,
+      "pageWidth": 600,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 476
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 512
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 256
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 256
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-600.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": true,
+      "width": 320,
+      "pageWidth": 320,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 68,
+          "width": 205
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 206
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 202
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 232
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 116
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 116
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-320.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": true,
+      "width": 390,
+      "pageWidth": 390,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 266
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 302
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 151
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 151
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-390.png"
+    },
+    {
+      "file": "welcome-03.html",
+      "hash": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
+      "stripped": true,
+      "width": 430,
+      "pageWidth": 430,
+      "badImages": [],
+      "overflow": [],
+      "clipped": [],
+      "buttons": [
+        {
+          "text": "PANAUDOTI 5 € NUOLAIDĄ   →",
+          "height": 48,
+          "width": 306
+        },
+        {
+          "text": "ATRASKITE SODO PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "ATRASKITE NAMŲ PREKES   →",
+          "height": 48,
+          "width": 218
+        },
+        {
+          "text": "PRISTATYMO SĄLYGOS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "GARANTIJA IR GRĄŽINIMAS →",
+          "height": 48,
+          "width": 214
+        },
+        {
+          "text": "+370 622 09006",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "pardavimai@zemakaina.lt",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "PARAŠYTI MUMS   →",
+          "height": 48,
+          "width": 342
+        },
+        {
+          "text": "NAMAMS",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "SODUI",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "LAIKUI SAU",
+          "height": 48,
+          "width": 171
+        },
+        {
+          "text": "VISOS PREKĖS",
+          "height": 48,
+          "width": 171
+        }
+      ],
+      "shortButtons": [],
+      "screenshot": "welcome-03-stripped-430.png"
     }
   ],
   "visual": [
@@ -1812,7 +1812,7 @@
     },
     {
       "file": "welcome-03.html",
-      "sha256": "caf7bc397783ea1df8a06c49c68ea9f2cdf12a5634e381fc98e847f663398e8c",
+      "sha256": "0412e416ac9805ec4b7a0de2dafd156c2c21e4edf45fc1a6d03ea8520302540a",
       "visual_review": "passed",
       "viewports": [
         600,
