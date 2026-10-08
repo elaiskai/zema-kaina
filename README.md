@@ -1,3 +1,9 @@
+# Mobilus išdėstymas atnaujintas 2026 m. spalio 8 d.
+
+Visų 13 laiškų mobilus išdėstymas pataisytas. Welcome 1 privalumai pateikti kompaktiškomis ikonos ir teksto eilutėmis. Kategorijų bei produktų blokai telefone platūs, teksto aukštis automatinis. W1 kompiuteryje išlieka trys kategorijos eilėje. Winback 1 grąžintas Omnisend patvirtintas lifestyle hero. Cart ir Checkout šiame etape pataisyti techniškai dėl mobilumo.
+
+[Importo instrukcija](MOBILE-IMPORT-2026-10-08.md) ir [aktualios HTML QA](QA-Mobile-2026-10-08.json). Patikrintos naršyklės peržiūros su CSS ir be jo. Tikras Omnisend / Gmail siuntimo rezultatas dar nepatvirtintas, būtinas šviežias platformos testas po importo. Ankstesnės QA ir dokumentacijos datos žemiau yra istorinės.
+
 # Aktualūs patvirtinti Welcome
 
 W1 ir W2 pasirinkti lifestyle hero. W3 grąžintas pirminis hero. W1 kategorijos po tris eilėje, išlaikyta nauja prioritetų tvarka.
